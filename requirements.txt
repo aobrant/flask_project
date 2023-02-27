@@ -1,0 +1,7 @@
+flask
+psycopg2-binary
+SQLAlchemy
+requests
+pydantic
+python-decouple
+Flask-Bcrypt==1.0.1
